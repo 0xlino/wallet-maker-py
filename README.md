@@ -19,5 +19,5 @@ To use `wallet-maker-py`, follow the steps below:
 2. Run the script
 
 ```python
-python main.py
+python wallets.py
 ```
